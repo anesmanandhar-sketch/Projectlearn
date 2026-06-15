@@ -1,1 +1,2 @@
 i am practicing the cause dipesh dai is giuding me to use some some in git
+i uploaded the and i again cloned this i add this line of text now ill push this again to repo
